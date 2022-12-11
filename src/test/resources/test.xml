@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog>
+<yml_catalog date="05 Dec 2022 09:20:40">
+    <shop>
+        <name>GamePark</name>
+        <company>GamePark</company>
+        <url>https://www.gamepark.ru</url>
+        <currencies>
+            <currency id="RUB" rate="1"/>
+        </currencies>
+        <categories>
+            <category id="245">Приставки PlayStation 4</category>
+            <category id="400" parentId="245">Акционные товары</category>
+            <category id="327">Приставки Nintendo Switch</category>
+            <category id="289">Приставки GameReplay</category>
+            <category id="366">Приставки Dendy</category>
+            <category id="284">Приставки Xbox</category>
+            <category id="361">Приставки SEGA</category>
+            <category id="348">Приставки Nintendo Classic</category>
+            <category id="106">Аксессуары PC</category>
+            <category id="292" parentId="106">Клавиатуры</category>
+            <category id="291" parentId="106">Компьютерная мышь</category>
+            <category id="293" parentId="106">Коврики для мыши</category>
+            <category id="294" parentId="106">Наушники</category>
+            <category id="242">Аксессуары Сувениры</category>
+            <category id="344" parentId="242">Коврики для мыши</category>
+            <category id="223">Аксессуары (не установлено)</category>
+            <category id="15">Аксессуары PlayStation 3</category>
+            <category id="18">Аксессуары Xbox 360</category>
+            <category id="260">Аксессуары PlayStation 4</category>
+            <category id="252">Аксессуары GameReplay</category>
+            <category id="328">Аксессуары Nintendo Switch</category>
+            <category id="397">Аксессуары PlayStation 5</category>
+            <category id="285">Аксессуары Xbox</category>
+            <category id="12">Аксессуары Nintendo Wii</category>
+            <category id="341">Аксессуары Комиксы</category>
+            <category id="342" parentId="341">Комиксы</category>
+            <category id="200">Игры GameReplay</category>
+            <category id="244" parentId="200">Стрелялки / Shooter</category>
+            <category id="224" parentId="200">Ролевые / RPG</category>
+            <category id="249" parentId="200">Симуляторы / Simulator</category>
+            <category id="261" parentId="200">Драки / Fighting</category>
+            <category id="247" parentId="200">Бродилки / Arcade</category>
+            <category id="246" parentId="200">Боевик / Action</category>
+            <category id="251" parentId="200">Гонки / Racing</category>
+            <category id="225" parentId="200">Приключения / Adventure</category>
+            <category id="255" parentId="200">Ужасы / Horror</category>
+            <category id="248" parentId="200">Стратегии / Strategy</category>
+            <category id="313" parentId="200">Детективы / Detective</category>
+            <category id="268" parentId="200">Пазлы / Puzzle</category>
+            <category id="256" parentId="200">Спортивные / Sport</category>
+            <category id="298">Настольные игры</category>
+            <category id="262">Игры PlayStation 4</category>
+            <category id="275" parentId="262">Драки / Fighting</category>
+            <category id="287" parentId="262">Ролевые / RPG</category>
+            <category id="263" parentId="262">Стрелялки / Shooter</category>
+            <category id="265" parentId="262">Приключения / Adventure</category>
+            <category id="269" parentId="262">Гонки / Racing</category>
+            <category id="264" parentId="262">Боевик / Action</category>
+            <category id="270" parentId="262">Бродилки / Arcade</category>
+            <category id="267" parentId="262">Симуляторы / Simulator</category>
+            <category id="288" parentId="262">Ужасы / Horror</category>
+            <category id="310" parentId="262">Стратегии / Strategy</category>
+            <category id="377" parentId="262">Платформер / Platformer</category>
+            <category id="295" parentId="262">Пазлы / Puzzle</category>
+            <category id="400" parentId="262">Для вечеринок / Party</category>
+            <category id="266" parentId="262">Спортивные / Sport</category>
+            <category id="308" parentId="262">Квест / Quest</category>
+            <category id="307" parentId="262">Детективы / Detective</category>
+            <category id="394">Игры PlayStation 5</category>
+            <category id="416" parentId="394">Гонки / Racing</category>
+            <category id="405" parentId="394">Приключения / Adventure</category>
+            <category id="401" parentId="394">Боевик / Action</category>
+            <category id="412" parentId="394">Стрелялки / Shooter</category>
+            <category id="409" parentId="394">Драки / Fighting</category>
+            <category id="421" parentId="394">Платформер / Platformer</category>
+            <category id="415" parentId="394">Бродилки / Arcade</category>
+            <category id="408" parentId="394">Ролевые / RPG</category>
+            <category id="410" parentId="394">Для вечеринок / Party</category>
+            <category id="414" parentId="394">Симуляторы / Simulator</category>
+            <category id="419" parentId="394">Спортивные / Sport</category>
+            <category id="418" parentId="394">Квест / Quest</category>
+            <category id="417" parentId="394">Ужасы / Horror</category>
+            <category id="422" parentId="394">Детективы / Detective</category>
+            <category id="389">Игры Комиксы</category>
+            <category id="271">Игры Xbox</category>
+            <category id="290" parentId="271">Ролевые / RPG</category>
+            <category id="276" parentId="271">Симуляторы / Simulator</category>
+            <category id="273" parentId="271">Гонки / Racing</category>
+            <category id="277" parentId="271">Боевик / Action</category>
+            <category id="274" parentId="271">Стрелялки / Shooter</category>
+            <category id="315" parentId="271">Стратегии / Strategy</category>
+            <category id="279" parentId="271">Драки / Fighting</category>
+            <category id="283" parentId="271">Приключения / Adventure</category>
+            <category id="286" parentId="271">Бродилки / Arcade</category>
+            <category id="280" parentId="271">Музыкальные / Music</category>
+            <category id="404" parentId="271">Для вечеринок / Party</category>
+            <category id="272" parentId="271">Спортивные / Sport</category>
+            <category id="278" parentId="271">Ужасы / Horror</category>
+            <category id="356" parentId="271">Детективы / Detective</category>
+            <category id="329">Игры Nintendo Switch</category>
+            <category id="335" parentId="329">Гонки / Racing</category>
+            <category id="367" parentId="329">Стрелялки / Shooter</category>
+            <category id="368" parentId="329">Платформер / Platformer</category>
+            <category id="334" parentId="329">Приключения / Adventure</category>
+            <category id="352" parentId="329">Боевик / Action</category>
+            <category id="336" parentId="329">Драки / Fighting</category>
+            <category id="339" parentId="329">Бродилки / Arcade</category>
+            <category id="355" parentId="329">Пазлы / Puzzle</category>
+            <category id="330" parentId="329">Симуляторы / Simulator</category>
+            <category id="350" parentId="329">Ролевые / RPG</category>
+            <category id="338" parentId="329">Спортивные / Sport</category>
+            <category id="351" parentId="329">Квест / Quest</category>
+            <category id="346" parentId="329">Ужасы / Horror</category>
+            <category id="357" parentId="329">Детективы / Detective</category>
+            <category id="369" parentId="329">Для вечеринок / Party</category>
+            <category id="371">Игры Уцененные товары</category>
+            <category id="373" parentId="371">Боевик / Action</category>
+            <category id="376" parentId="371">Спортивные / Sport</category>
+            <category id="40">Игры Nintendo 3DS</category>
+            <category id="123" parentId="40">Пазлы / Puzzle</category>
+            <category id="24">Игры PC</category>
+            <category id="61" parentId="24">Ролевые / RPG</category>
+            <category id="104" parentId="24">Ужасы / Horror</category>
+        </categories>
+        <offers>
+            <offer available="true" id="430281">
+                <categoryId>342</categoryId>
+                <currencyId>RUB</currencyId>
+                <description>Всего неделю назад Айнз перенёсся в другой мир. В компании боевой служанки Нарберал он проникает в город крепость Э-Рантель, чтобы собрать сведения об этом мире, записавшись в ряды авантюристов и прославившись среди местных жителей. Заинтересовав извес...</description>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <modified_time>1669396649</modified_time>
+                <name>Overlord: Том 2 - Тёмный воин (Ранобэ)</name>
+                <picture>https://www.gamepark.ru/upload/resize_cache/iblock/d3d/300_500_1/29611c38_9a7c_11e9_9109_f8fc0003deb0_overlord_02_supercover.jpeg</picture>
+                <price>1160.00</price>
+                <url>https://aflink.ru/g/af8ef42a170a06b3f874e8b31ead25/?f_id=15855&amp;ulp=https%3A%2F%2Fwww.gamepark.ru%2Fcomics%2Faccessories%2FOverlordTom2TyemnyyvoinRanobe%2F&amp;i=5</url>
+                <vendor>Test</vendor>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>

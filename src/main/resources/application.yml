@@ -1,0 +1,20 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/solution
+    username: root
+    password: 566289asd
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+server:
+  port: 1234
+
+solution:
+  admitad:
+    client-id: Mt44BBCMKwYD5BEPLiY9FFdaul21xn
+    client-secret: a0f8a8b24de8b8182a0ddd2e89f5b1
+    api-url: https://api.admitad.com
+  schedule:
+    program-init-cron: 0 0 0 1 * *
+    offers-init-cron: 0 0 0 1 * *
